@@ -1,0 +1,25 @@
+{
+  "name": "criandoprimeirabiblioteca-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oalvesss/CreatFirstLibrary-Node.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oalvesss/CreatFirstLibrary-Node.js/issues"
+  },
+  "homepage": "https://github.com/oalvesss/CreatFirstLibrary-Node.js#readme",
+  "dependencies": {
+    "chalk": "^6.0.1",
+    "commander": "^15.1.0"
+  }
+}
